@@ -24,10 +24,14 @@ class Books {
     }
 
     function Validatestate(){
+
+    }
+
+    function generateBookList(){
         
     }
 
-    function generateBook(){
+    function generateBookInfo(){
 
     }
 
