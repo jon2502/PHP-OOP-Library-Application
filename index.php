@@ -9,6 +9,13 @@
     ?>
 </head>
 <body>
+<?php
+    require_once("./Site_components/general.php");
     
+
+    searchBar();
+    echo "</select>";
+?>
+
 </body>
 </html>
