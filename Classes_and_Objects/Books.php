@@ -23,4 +23,12 @@ class Books {
         $this->isAvailable = $isAvailable;
     }
 
+    function Validatestate(){
+        
+    }
+
+    function generateBook(){
+
+    }
+
 }
